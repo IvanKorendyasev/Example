@@ -1,0 +1,21 @@
+G:\Ваня\Учёба\Проекты\CarRent\CarRent\bin\Debug\CarRent.exe.config
+G:\Ваня\Учёба\Проекты\CarRent\CarRent\bin\Debug\CarRent.exe
+G:\Ваня\Учёба\Проекты\CarRent\CarRent\bin\Debug\CarRent.pdb
+G:\Ваня\Учёба\Проекты\CarRent\CarRent\obj\Debug\CarRent.csprojResolveAssemblyReference.cache
+G:\Ваня\Учёба\Проекты\CarRent\CarRent\obj\Debug\CarRent.Form1.resources
+G:\Ваня\Учёба\Проекты\CarRent\CarRent\obj\Debug\CarRent.Properties.Resources.resources
+G:\Ваня\Учёба\Проекты\CarRent\CarRent\obj\Debug\CarRent.csproj.GenerateResource.Cache
+G:\Ваня\Учёба\Проекты\CarRent\CarRent\obj\Debug\CarRent.exe
+G:\Ваня\Учёба\Проекты\CarRent\CarRent\obj\Debug\CarRent.pdb
+G:\Ваня\Учёба\Проекты\CarRent V2.0\CarRent\bin\Debug\CarRent.exe.config
+G:\Ваня\Учёба\Проекты\CarRent V2.0\CarRent\obj\Debug\CarRent.exe
+G:\Ваня\Учёба\Проекты\CarRent V2.0\CarRent\obj\Debug\CarRent.pdb
+G:\Ваня\Учёба\Проекты\CarRent V2.0\CarRent\obj\Debug\CarRent.csprojResolveAssemblyReference.cache
+G:\Ваня\Учёба\Проекты\CarRent V2.0\CarRent\obj\Debug\CarRent.Form1.resources
+G:\Ваня\Учёба\Проекты\CarRent V2.0\CarRent\obj\Debug\CarRent.Form2.resources
+G:\Ваня\Учёба\Проекты\CarRent V2.0\CarRent\obj\Debug\CarRent.Properties.Resources.resources
+G:\Ваня\Учёба\Проекты\CarRent V2.0\CarRent\obj\Debug\CarRent.csproj.GenerateResource.Cache
+G:\Ваня\Учёба\Проекты\CarRent V2.0\CarRent\bin\Debug\CarRent.exe
+G:\Ваня\Учёба\Проекты\CarRent V2.0\CarRent\bin\Debug\CarRent.pdb
+G:\Ваня\Учёба\Проекты\CarRent V2.0\CarRent\obj\Debug\CarRent.Form3.resources
+G:\Ваня\Учёба\Проекты\CarRent V2.0\CarRent\obj\Debug\CarRent.Form4.resources
